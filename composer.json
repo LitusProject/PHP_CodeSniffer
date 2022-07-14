@@ -4,5 +4,10 @@
 
         "slevomat/coding-standard": "~8.0",
         "wp-coding-standards/wpcs": "~2.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
     }
 }
